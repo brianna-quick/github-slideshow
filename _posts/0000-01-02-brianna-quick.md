@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"The purpose of our lives is to be happy." - Dalai Lama
 Use the left arrow to go back!
 
